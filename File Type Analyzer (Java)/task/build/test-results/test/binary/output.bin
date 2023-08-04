@@ -1,0 +1,70 @@
+[1;31m
+Start test 1[0m
+‡{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.637413=[ftypiso2, ISO Media MP4 Base Media v2], 7.095476=[ppt/_rels, MS Office PowerPoint 2007+], 7.606157=[xl/_rels, MS Office Excel 2007+], 9.0=[ftypjp2, ISO Media JPEG 2000], 6.2166886=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003]}
+doc.pdf: PDF document
+text.pdf: Unknown file type
+[1;31m
+Start test 2[0m
+†{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 7.6492724=[xl/_rels, MS Office Excel 2007+], 7.72873=[ppt/_rels, MS Office PowerPoint 2007+], 6.4682493=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 9.61991=[ftypiso2, ISO Media MP4 Base Media v2]}
+doc1.zip: Zip archive
+doc.zip: Unknown file type
+[1;31m
+Start test 3[0m
+‰{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 7.0312047=[ppt/_rels, MS Office PowerPoint 2007+], 9.651562=[ftypiso2, ISO Media MP4 Base Media v2], 6.6152763=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 7.1616096=[xl/_rels, MS Office Excel 2007+]}
+main.config: Unknown file type
+main: PCP pmview config
+[1;31m
+Start test 4[0m
+†{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 7.915321=[xl/_rels, MS Office Excel 2007+], 9.137879=[ftypiso2, ISO Media MP4 Base Media v2], 7.170409=[ppt/_rels, MS Office PowerPoint 2007+], 6.440461=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003]}
+slides2.odp: Unknown file type
+'slides1.odp: OpenDocument presentation
+[1;31m
+Start test 5[0m
+‡{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 9.019975=[ftypiso2, ISO Media MP4 Base Media v2], 7.678383=[xl/_rels, MS Office Excel 2007+], 7.0965242=[ppt/_rels, MS Office PowerPoint 2007+], 6.432954=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003]}
+doc.txt: Unknown file type
+txt.doc: MS Office Word 2003
+[1;31m
+Start test 6[0m
+†{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 6.9724646=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 9.049143=[ftypiso2, ISO Media MP4 Base Media v2], 7.576545=[xl/_rels, MS Office Excel 2007+], 7.85879=[ppt/_rels, MS Office PowerPoint 2007+]}
+slides2.ptp: Unknown file type
+'slides1.ptp: MS Office PowerPoint 2003
+[1;31m
+Start test 7[0m
+‰{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.936003=[ftypiso2, ISO Media MP4 Base Media v2], 7.9447446=[ppt/_rels, MS Office PowerPoint 2007+], 9.0=[ftypjp2, ISO Media JPEG 2000], 7.3531613=[xl/_rels, MS Office Excel 2007+], 6.2916102=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003]}
+doc.txt: Unknown file type
+txt.doc: MS Office Word 2007+
+[1;31m
+Start test 8[0m
+ˆ{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 9.8888645=[ftypiso2, ISO Media MP4 Base Media v2], 6.1161933=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 7.312755=[ppt/_rels, MS Office PowerPoint 2007+], 7.251315=[xl/_rels, MS Office Excel 2007+]}
+pres2.pptx: Unknown file type
+'pres1.pptx: MS Office PowerPoint 2007+
+[1;31m
+Start test 9[0m
+†{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 7.85957=[ppt/_rels, MS Office PowerPoint 2007+], 7.2279687=[xl/_rels, MS Office Excel 2007+], 6.6028304=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 9.0=[ftypjp2, ISO Media JPEG 2000], 9.01792=[ftypiso2, ISO Media MP4 Base Media v2]}
+"sheet1.xls: MS Office Excel 2007+
+sheet2.xls: Unknown file type
+[1;31m
+Start test 10[0m
+ˆ{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 7.4764986=[xl/_rels, MS Office Excel 2007+], 7.1671615=[ppt/_rels, MS Office PowerPoint 2007+], 6.694321=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 9.575014=[ftypiso2, ISO Media MP4 Base Media v2]}
+cert.pem: PEM certificate
+!cert_core.pem: Unknown file type
+[1;31m
+Start test 11[0m
+‡{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 7.7818084=[xl/_rels, MS Office Excel 2007+], 9.0=[ftypjp2, ISO Media JPEG 2000], 9.023163=[ftypiso2, ISO Media MP4 Base Media v2], 6.295379=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 7.506916=[ppt/_rels, MS Office PowerPoint 2007+]}
+2.jpg: Unknown file type
+1.jpg: ISO Media JPEG 2000
+[1;31m
+Start test 12[0m
+ˆ{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 6.734811=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 7.2442694=[ppt/_rels, MS Office PowerPoint 2007+], 7.0613313=[xl/_rels, MS Office Excel 2007+], 9.485667=[ftypiso2, ISO Media MP4 Base Media v2]}
+&tape.jpg: ISO Media MP4 Base Media v2
+tape.mp4: Unknown file type
+[1;31m
+Start test 13[0m
+‰{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 9.211549=[ftypiso2, ISO Media MP4 Base Media v2], 6.8249784=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 7.9831743=[ppt/_rels, MS Office PowerPoint 2007+], 7.5555615=[xl/_rels, MS Office Excel 2007+]}
+'tape2.mp4: ISO Media MP4 Base Media v2
+tape2.jpg: MS Office Word 2003
+[1;31m
+Start test 14[0m
+ˆ{1.0=[%PDF-, PDF document], 2.0=[pmview, PCP pmview config], 4.0=[PK, Zip archive], 5.0=[vnd.oasis.opendocument.presentation, OpenDocument presentation], 6.0=[W.o.r.d, MS Office Word 2003], 7.0=[word/_rels, MS Office Word 2007+], 8.0=[-----BEGIN\ CERTIFICATE-----, PEM certificate], 9.0=[ftypjp2, ISO Media JPEG 2000], 9.312247=[ftypiso2, ISO Media MP4 Base Media v2], 7.0173206=[ppt/_rels, MS Office PowerPoint 2007+], 6.4553275=[P.o.w.e.r.P.o.i, MS Office PowerPoint 2003], 7.523387=[xl/_rels, MS Office Excel 2007+]}
+tape3.mp4: MS Office Word 2003
+tape3.jpg: PEM certificate

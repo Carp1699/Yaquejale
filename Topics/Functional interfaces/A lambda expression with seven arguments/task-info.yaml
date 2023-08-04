@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  highlight_level: NONE
+  text: |-
+    class Seven {
+        public static SeptenaryStringFunction fun = //write your code here
+    }
+
+    @FunctionalInterface
+    interface SeptenaryStringFunction {
+        String apply(String s1, String s2, String s3, String s4, String s5, String s6, String s7);
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2369#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 21 Jun 2023 18:56:18 UTC"
+record: -1
+submission_language: java17

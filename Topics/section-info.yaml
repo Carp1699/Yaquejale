@@ -1,0 +1,11 @@
+content:
+- Anonymous classes
+- Default methods
+- Lambda expressions
+- Method references
+- Functional interfaces
+- Threads as objects
+- Custom threads
+- Thread management
+- Executors
+- Interruptions
